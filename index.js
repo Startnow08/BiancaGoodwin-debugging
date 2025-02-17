@@ -67,6 +67,7 @@ function hideAllMessages() {
   }
 }
 
+
 function setup() {
   // Get random number
   targetNumber = getRandomNumber(1, 100);
